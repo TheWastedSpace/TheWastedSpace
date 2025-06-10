@@ -1,4 +1,4 @@
-## 📘 Looking for the German version? 👉 [README.de.md
+## 📘 Looking for the German version? 👉 README.de.md
 # 👾 Welcome to the Wasted Space 🚀
 
 Hi (oﾟvﾟ)ノ
