@@ -5,60 +5,61 @@
 # 👾 Wilkommen bei the Wasted Space 🚀
 
 Hi (oﾟvﾟ)ノ  
-Ich bin Dean – Dev am Tag, Gamer bei Nacht, alles wird ohne Schlaf gemacht. (Lyrisches Meisterwerk, ich weiß 🎤✨)
+Ich bin Dean – Dev am Tag, Gamer bei Nacht, alles ohne Schlaf gemacht. (Lyrisches Meisterwerk, ich weiß 🎤✨)
 
 
-U’ll find me online as **@TheWastedSpace** and somewhere in Germany, usually building something weird, breaking something important and/or dying to a boss.  
-Occasionally I read books and go to the gym, like a civilized human.
+Man findet ich Online unter **@TheWastedSpace** oder **@ThePokemonCasual** und iwo in Deutschland. Meistens bau ich misst, mach iwas wichtiges kapput und/oder sterb an 'nem Boss.  
+Manchmal lese ich auch und mach Sport, so wie ein zivilisierter Mensch das machen würde.
 
-### 🧠 Interests:
-- 🧑‍💻 Programming
-- 📚 Reading – mostly fantasy, scientific articles, and programming docs
-- ❤️ My lil siblings – I must protecc 🛡️
-- 🎮 Gaming – mostly indie titles, but I know the big ones too (for Christ’s sake, hit me up if u play Destiny 2)
-- 🧑‍🎓 I **LOVE** teaching others and learning stuff I am interested in
-- 🏃‍♂️ Sports – so my back doesn’t die, i like being fit and ⬇️
-- 🎭 Cosplay – just occasionally; I buy the outfits, no sewing involved
-- 🎉 Partying – mostly for the dancing and meeting people (I don’t drink alc, though 🚱)
-- 🎤 Singing - only ok at it, but thats why it stays a hobby
+### 🧠 Interessen:
+- 🧑‍💻 Programmieren - Was auch immer mir einfällt
+- 📚 Lesen – Fantasy, wissenschaftliche Artikel/Bücher, und Programmier Dokus
+- ❤️ Meine kleinen Geschwister
+- 🎮 Gaming – Viel Indie aber auch ein paar der großen Titel (Wenn du Destiny 2 spielts, schreib mir 🙏)
+- 🧑‍🎓 Ich **LIEBE** anderen Dinge beizubringen und Sachen zu lernen, die mich interessieren
+- 🏃‍♂️ Sport – Das ich mit 30 nicht schon lauf wie'n Opa, ich mag es fit zu bleiben und ⬇️
+- 🎭 Cosplay – Eher seltener; Wenn dann kauf ich's mir zusammen, kann net nähen
+- 🎉 Feiern – Mag das Tanzen, die Vibes und neue leute kennen zu lernen (Trink aber kein Alc🚱)
+- 🎤 Singen - Nicht besonders gut drinnen, aber deswegen isses ja ein Hobby
 
-### 🛠️ What I'm working on:
-#### Currently: GDScript  
-This README might be outdated by the time u read it. But hey, that’s me :)
+### 🛠️ An was ich momentan arbeite:
+#### Currently: GDScript lernen  
+Könnte Outdated sein, Update das README nur sporadisch. Aber hej, so bin ich :)
 
-### 🤝 Wanna collaborate?
-I know:
-- C# (rusty, but u never unlearn)
-- GDScript (whatever my progress on that is currently)
-- Python (a bit)  
-But I don’t mind diving into a new programming language if needed – though it takes time, of course ⏳
+### 🤝 Du möchtest zusammen arbeiten?
+Ich kann:
+- C# (eingerostet, aber man verlernt nie)
+- GDScript (Wird momentan noch gelernt, kann aber die Basics)
+- Python (Ein wenig)  
+Hab aber auch kein Problem damit ne neue Sprache zu lernen - dauert halt nur ein wenig ⏳
 
-I’m open to:
-- `EN`↔️`DE` Translation projects
-- 🎮 Some game dev stuff – but I'm only ok-ish at the programming part, so maybe i stick to the "refine ideas" and the "write story/dialouges" part 😅
-- 🧪 Playtesting – I can break just about anything (my nickname was once "the on-purpose D.A.U." _`German IT Joke`_)
-- 🎨 Anything weird and creative
+Bin offen für:
+- `EN`↔️`DE` Übersetzungs Projekte
+- 🎮 So n bissi Game Dev Zeugs – Bin ok im Programmieren, aber besser im "Kreative Ideen einbringen" und "Story/Dialoge schreiben" Part 😅
+- 🧪 (Spiele)Testen – Ich bekomm so ziemlich jedes Programm kapput (Mein Spitzname war mal "Der beabsichtigte D.A.U.")
+- 🎨 Alles seltsamme und kreative
 
-## 🤖 Standpoint on AI:
-This README was created with the **help** of AI – not by blindly copy-pasting whatever it output.  
-I gave it a rough outline of what I wanted to express, and it gave me something that was less rough  
-I use AI as a **tool**, not as a **replacement** for creative thinking – I honestly can't stand when people do that 🙅‍♂️  
-Also, I probably wouldn’t have used this many emojis without it 😊👌👍  
-And fixing my grammar manually would’ve taken ages 🕒🕗  
-So if u want ideas on how to **work with AI** – without letting it do all the work – hit me up! 😉
+## 🤖 Standpunkt zu KI:
+Diese README wurde mit der **Hilfe** von KI erstellt – nicht durch blindes Copy-Pasten von allem, was es ausgespuckt hat.  
+Ich habe 'nen groben Text rein gegeben und KI hat mir etwas weniger grobes zurück gegeben ✍️🤖  
+Ich nutze KI als **Werkzeug**, nicht als **Ersatz** für kreatives Denken. Ganz ehrlich: Ich kann Leute nicht leiden, die alles von KI machen lassen 🙅‍♂️  
+Außerdem hätte ich wahrscheinlich niemals so viele Emojis verwendet ohne dass KI mir das vorgeschlagen hätte 😊👌👍  
+Und meine Grammatik manuell zu korrigieren hätte ewig gedauert 🕒🕗  
+Wenn du also Ideen willst, wie man **mit KI arbeitet**, ohne KI alles zu überlassen – schreib mich an 😉
 
-## 📬 Contact:
-- 💬 Discord: `@thewastedspace` – pretty much 18/7 (I need my sleep 😴)
-- 🐙 GitHub – but I might take some time to respond
+
+## 📬 Kontakte:
+- 💬 Discord: `@thewastedspace` – eigentlich 18/7 erreichbar (Brauche meinen Schlaf 😴)
+- 🐙 GitHub – Könnte aber ein wenig dauern
 
 ## ⚠️ Pronouns & Stuff:
-I try to keep my language gender-neutral. Not political – just polite.  
-Way harder in German (der, die, das 💀), but I manage.  
-So just call me whatever – though I'm a guy, if u're curious
+Ich versuche meine Sprache Geschlechtsneutral zu halten. Keine politischen Gründe – einfach nettigkeitshalber.  
+Sehr viel schwerer in Deutsch (der, die, das 💀), aber iwie geht immer.  
+Mir isses auch egal als was du mich betitelst – Aber ich bin ein Typ, falls es dich juckt.
 
 ## 🧩 Fun Fact:
-In some countries, ADHD isn’t a disorder – it’s a personality.  
-I choose to believe that, instead of taking medicine - for now.
+In manchen Ländern ist ADHS keine Krankheit – es ist eine Persönlichkeit.  
+Ichabe mich entschieden daran zu glauben, anstatt Medikamente zu nehmen - fürs erste.
 <!---
 TheWastedSpace/TheWastedSpace is a ✨ special ✨ repository because its `README.md` (this file) appears on ur GitHub profile.
 u can click the Preview link to take a look at ur changes.
