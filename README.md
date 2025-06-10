@@ -9,18 +9,25 @@ U’ll find me online as **@TheWastedSpace** and **@ThePokemonCasual** and somew
 Occasionally I read books and go to the gym, like a civilized human.
 
 ### 🧠 Interests:
-- 🧑‍💻 Programming - whatever comes to my mind
-- 📚 Reading – mostly fantasy, scientific articles, and programming docs
-- ❤️ My lil siblings – I must protecc 🛡️
-- 🎮 Gaming – mostly indie titles, but I know the big ones too (for Christ’s sake, hit me up if u play Destiny 2)
+- 🧑‍💻 Programming - whatever comes to mind
+- 📚 Reading
+  - Fantasy
+  - scientific articles
+  - programming docs
+- ❤️ My lil siblings - I must protecc 🛡️
+- 🎮 Gaming - Mostly indie titles, but I know the big ones too
+  - For Christ’s sake, hit me up if u play Destiny 2
 - 🧑‍🎓 I **LOVE** teaching others and learning stuff I am interested in
-- 🏃‍♂️ Sports – so my back doesn’t die, i like being fit and ⬇️
+- 🏃‍♂️ Sports
+  - so my back doesn’t die
+  - I like being fit
+  - For my other hobbys
 - 🎭 Cosplay – just occasionally; I buy the outfits, no sewing involved
 - 🎉 Partying – mostly for the dancing and meeting people (I don’t drink alc, though 🚱)
 - 🎤 Singing - only ok at it, but thats why it stays a hobby
 
 ### 🛠️ What I'm working on:
-#### Currently: GDScript  
+#### Currently: learning GDScript  
 This README might be outdated by the time u read it. But hey, that’s me :)
 
 ### 🤝 Wanna collaborate?
