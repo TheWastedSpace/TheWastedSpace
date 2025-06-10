@@ -9,7 +9,7 @@ U’ll find me online as **@TheWastedSpace** and **@ThePokemonCasual** and somew
 Occasionally I read books and go to the gym, like a civilized human.
 
 ### 🧠 Interests:
-- 🧑‍💻 Programming
+- 🧑‍💻 Programming - whatever comes to my mind
 - 📚 Reading – mostly fantasy, scientific articles, and programming docs
 - ❤️ My lil siblings – I must protecc 🛡️
 - 🎮 Gaming – mostly indie titles, but I know the big ones too (for Christ’s sake, hit me up if u play Destiny 2)
