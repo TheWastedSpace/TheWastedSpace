@@ -1,7 +1,5 @@
 ## 📘 [Searching a English version?](README.md)
 
-# 🚧!WIP!🚧
-
 # 👾 Wilkommen bei the Wasted Space 🚀
 
 Hi (oﾟvﾟ)ノ  
