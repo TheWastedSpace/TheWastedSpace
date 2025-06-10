@@ -5,7 +5,7 @@ Hi (oﾟvﾟ)ノ
 I’m Dean – dev by day, gamer by night, and no sleep in sight. (I'm a lyrical genius, ik 🎤✨)
 
 
-U’ll find me online as **@TheWastedSpace** and somewhere in Germany, usually building something weird, breaking something important and/or dying to a boss.  
+U’ll find me online as **@TheWastedSpace** and **@ThePokemonCasual** and somewhere in Germany, usually building something weird, breaking something important and/or dying to a boss.  
 Occasionally I read books and go to the gym, like a civilized human.
 
 ### 🧠 Interests:
