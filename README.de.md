@@ -2,10 +2,10 @@
 
 # 🚧!WIP!🚧
 
-# 👾 Welcome to the Wasted Space 🚀
+# 👾 Wilkommen bei the Wasted Space 🚀
 
 Hi (oﾟvﾟ)ノ  
-I’m Dean – dev by day, gamer by night, and no sleep in sight. (I'm a lyrical genius, ik 🎤✨)
+Ich bin Dean – Dev am Tag, Gamer bei Nacht, alles wird ohne Schlaf gemacht. (Lyrisches Meisterwerk, ich weiß 🎤✨)
 
 
 U’ll find me online as **@TheWastedSpace** and somewhere in Germany, usually building something weird, breaking something important and/or dying to a boss.  
