@@ -3,7 +3,7 @@
 # 👾 Wilkommen bei the Wasted Space 🚀
 
 Hi (oﾟvﾟ)ノ  
-Ich bin Dean – Dev am Tag, Gamer bei Nacht, alles ohne Schlaf gemacht. (Lyrisches Meisterwerk, ich weiß 🎤✨)
+Ich bin Dean – Dev am Tag, Gamer bei der Nacht, alles wird ohne Schlaf gemacht. (Lyrisches Meisterwerk, ich weiß 🎤✨)
 
 
 Man findet ich Online unter **@TheWastedSpace** oder **@ThePokemonCasual** und iwo in Deutschland. Meistens bau ich misst, mach iwas wichtiges kapput und/oder sterb an 'nem Boss.  
